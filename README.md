@@ -5,10 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashirzad313&label=Profile%20views&color=0e75b6&style=flat" alt="ashirzad313" /> </p>
 
-- 🌱 I’m currently learning **Networking, Cybersecurity**
-
-- 💬 Ask me about **C, OOP**
-
 - 📫 How to reach me **alirezashirzad2002@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
